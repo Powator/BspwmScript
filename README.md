@@ -1,5 +1,7 @@
 # BspwmScript
 
+copiar carpeta kitty de ZlCube github porque falta para la instalacion
+
 Confirmar tema Rofi con Alt+A
 
 
