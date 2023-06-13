@@ -1,6 +1,6 @@
 # BspwmScript
 
-copiar carpeta kitty de ZlCube github porque falta para la instalacion
+copiar carpeta kitty de ZlCube github porque falta para la instalacion o en mi drive
 
 Confirmar tema Rofi con Alt+A
 
