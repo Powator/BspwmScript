@@ -13,4 +13,5 @@ chmod +x install.sh
 ./install.sh
 
 
-Reemplazar a mano .zshrc porque no se copy paste por algun motivo
+(Solo si no copio la carpeta Kitty
+Reemplazar a mano .zshrc porque no se copy paste por algun motivo)
